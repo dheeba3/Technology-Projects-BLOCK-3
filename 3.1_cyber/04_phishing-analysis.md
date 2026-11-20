@@ -30,10 +30,11 @@ If you believe this is a mistake, reply with your full name, date of birth, and 
 
 ### Questions
 
-1.  Who appears to be the sender?
-2.  Does the email create urgency or pressure?
-3.  Are there spelling or grammar mistakes?
-4.  Does the link match the organisation domain?
+1.  Who appears to be the sender?The Account Support Team or Security Department.
+The Account Support Team or Security Department.
+2.  Does the email create urgency or pressure?You need to hover over the link to check. In phishing emails, they often do not match.
+3.  Are there spelling or grammar mistakes?This cannot be confirmed without seeing the full email.
+4.  Does the link match the organisation domain?Check the actual URL. A suspicious link may use a different domain from the official organisation.
 
 ### Reflection
 
