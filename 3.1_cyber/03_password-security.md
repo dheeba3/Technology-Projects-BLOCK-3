@@ -5,6 +5,8 @@
 Run:
 
     echo "password123" | cracklib-check
+![Uploading IMG_9368.jpeg…]()
+<img width="5712" height="4284" alt="IMG_9367" src="https://github.com/user-attachments/assets/8224ee28-4d33-4b5d-a42f-3d33f5d8cd53" />
 
 ### Screenshot
 
