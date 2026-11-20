@@ -6,6 +6,7 @@ Run:
 
     touch secret.txt
     ls -l secret.txt
+<img width="4032" height="3024" alt="IMG_9365" src="https://github.com/user-attachments/assets/b8e6e311-0034-4726-ba84-e530a09df321" />
 
 ### Screenshot
 
