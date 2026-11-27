@@ -78,3 +78,4 @@ Include:
 - Reflection
     >Explain how this activity demonstrated the CIA triad.
 <img width="5712" height="4284" alt="IMG_9410" src="https://github.com/user-attachments/assets/2e5c83fa-65c7-4f8c-b3d2-a1217d0fce45" />
+<img width="5712" height="4284" alt="IMG_9411" src="https://github.com/user-attachments/assets/1b48cd65-4671-4a09-a3d6-48c0f3003ec0" />
