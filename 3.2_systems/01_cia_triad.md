@@ -77,3 +77,4 @@ Include:
 - Answers to questions
 - Reflection
     >Explain how this activity demonstrated the CIA triad.
+<img width="5712" height="4284" alt="IMG_9410" src="https://github.com/user-attachments/assets/2e5c83fa-65c7-4f8c-b3d2-a1217d0fce45" />
