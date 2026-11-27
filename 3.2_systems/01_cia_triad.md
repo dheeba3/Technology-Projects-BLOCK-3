@@ -28,8 +28,8 @@ Understand the **Confidentiality, Integrity and Availability (CIA)** principles 
     ```
 
 **Questions**
-- Who can read this file?
-- How does file permission protect confidentiality?
+- Who can read this file? just me
+- How does file permission protect confidentiality?It prevents unauthorised users from accessing or reading private information.
 
 ## Part 2 – Integrity
 
@@ -37,7 +37,7 @@ Understand the **Confidentiality, Integrity and Availability (CIA)** principles 
     ```bash
     sha256sum secrets.txt
     ```
-    _What does "hash" do?
+    _What does "hash" do?It creates a unique digital fingerprint of the file's contents.
 
 1. Save the output.
 
@@ -50,8 +50,8 @@ Understand the **Confidentiality, Integrity and Availability (CIA)** principles 
 
 
 ** Questions**
-- Did the hash change?
-- Why do security systems use hashing?
+- Did the hash change?Yes, modifying the file should produce a different hash.
+- Why do security systems use hashing?To check data integrity and detect whether a file has been changed or tampered with.
 
 
 # Part 3 – Availability
@@ -67,8 +67,8 @@ Understand the **Confidentiality, Integrity and Availability (CIA)** principles 
     ```
 
 **Questions**
-- Why is system uptime important?
-- What happens if a system is unavailable?
+- Why is system uptime important?It ensures that systems and services remain accessible to users when needed.
+- What happens if a system is unavailable?Users cannot access data or services, which can cause disruption and loss of productivity.
 
 ## Deliverables
 Include:
